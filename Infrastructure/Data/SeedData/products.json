@@ -1,0 +1,173 @@
+[
+  {
+    "Name": "Khoziaiushka Gelatin Box 200 pcs",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 2120,
+    "PictureUrl": "images/products/b-kh1.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 2,
+    "ProductStockId": 1
+  },
+  {
+    "Name": "Pripravka Baking Powder Box 200 pcs",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 1520,
+    "PictureUrl": "images/products/b-pripravka1.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 3,
+    "ProductStockId": 1
+  },
+  {
+    "Name": "Pripravka Vanillin Box 160 pcs",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 1450.50,
+    "PictureUrl": "images/products/b-pripravka2.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 3,
+    "ProductStockId": 1
+  },
+  {
+    "Name": "Aromat Basil Box 200 pcs",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 1065,
+    "PictureUrl": "images/products/ms-aromat1.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1,
+    "ProductStockId": 4
+  },
+  {
+    "Name": "Aromat Oregano Box 200 pcs",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 1230.20,
+    "PictureUrl": "images/products/ms-aromat2.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1,
+    "ProductStockId": 1
+  },
+  {
+    "Name": "Kamis Basil Box 200 pcs",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 2000,
+    "PictureUrl": "images/products/ms-kamis1.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4,
+    "ProductStockId": 3
+  },
+  {
+    "Name": "Kamis Oregano Box 160 pcs",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 2312.23,
+    "PictureUrl": "images/products/ms-kamis2.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4,
+    "ProductStockId": 3
+  },
+  {
+    "Name": "Pripravka Garlic Box 200 pcs",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 2360.45,
+    "PictureUrl": "images/products/ms-pripravka1.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3,
+    "ProductStockId": 2
+  },
+  {
+    "Name": "Pripravka Basil Box 200 pcs",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 2268.99,
+    "PictureUrl": "images/products/ms-pripravka2.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3,
+    "ProductStockId": 3
+  },
+  {
+    "Name": "Aromat Pepper Blend Box 180 pcs",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 2380.80,
+    "PictureUrl": "images/products/p-aromat1.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 1,
+    "ProductStockId": 1
+  },
+  {
+    "Name": "Kamis Black pepper Ground Box 200 pcs",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 2400,
+    "PictureUrl": "images/products/p-kamis1.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4,
+    "ProductStockId": 2
+  },
+  {
+    "Name": "Kamis Red pepper Ground Box 200 pcs",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+    "Price": 2400,
+    "PictureUrl": "images/products/p-kamis2.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4,
+    "ProductStockId": 3
+  },
+  {
+    "Name": "Kotanyi Black pepper Ground Box 200 pcs",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 1865.65,
+    "PictureUrl": "images/products/p-kotanyi1.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 6,
+    "ProductStockId": 3
+  },
+  {
+    "Name": "Kotanyi Orange Pepper Box 180 pcs",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 1850,
+    "PictureUrl": "images/products/p-kotanyi2.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 6,
+    "ProductStockId": 2
+  },
+  {
+    "Name": "Aromat Spices for chicken Box 180 pcs",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 2300,
+    "PictureUrl": "images/products/s-aromat1.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1,
+    "ProductStockId": 1
+  },
+  {
+    "Name": "Aromat Spices for meat Box 200 pcs",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 2360,
+    "PictureUrl": "images/products/s-aromat2.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1,
+    "ProductStockId": 1
+  },
+  {
+    "Name": "Pripravka Spices for chicken Box 160 pcs",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 2330,
+    "PictureUrl": "images/products/s-pripravka1.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 3,
+    "ProductStockId": 2
+  },
+  {
+    "Name": "Pripravka Spices for fish Box 200 pcs",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 2320,
+    "PictureUrl": "images/products/s-pripravka2.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 3,
+    "ProductStockId": 3
+  },
+  {
+    "Name": "Torchyn Spices for chicken Box 200 pcs",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+    "Price": 1680.80,
+    "PictureUrl": "images/products/s-torchyn1.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 5,
+    "ProductStockId": 4
+  }
+]

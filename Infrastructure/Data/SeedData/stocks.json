@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "Name": "Stock A"
+  },
+  {
+    "Id": 2,
+    "Name": "Stock B"
+  },
+  {
+    "Id": 3,
+    "Name": "Stock C"
+  },
+  {
+    "Id": 4,
+    "Name": "Stock D"
+  }
+]
